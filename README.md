@@ -39,7 +39,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 ```
-module sr_ff(s,r,clk,q,qbar);
+module  expt6(s,r,clk,q,qbar);
 
 input s,r,clk;
 
